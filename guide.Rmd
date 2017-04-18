@@ -1,0 +1,15 @@
+---
+title: "guide"
+author: "Corey Peak"
+date: "`r Sys.Date()`"
+output:
+  prettydoc::html_pretty:
+    highlight: github
+---
+
+## Example Website
+
+Julie Lowndes' example website <https://jules32.github.io/rmarkdown-website-tutorial/index.html> and her github page for it <https://github.com/jules32/rmarkdown-website-tutorial>
+
+
+
